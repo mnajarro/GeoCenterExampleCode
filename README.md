@@ -1,6 +1,6 @@
-# GeoCenterExampleCode
+# GeoCenter Example Code
 
-some scripts and sites created by the GeoCenter are being stored here temporarily
+Below are some scripts and sites created by the GeoCenter.
 
 http://geocenterusaid.org/rswebpage/
 
