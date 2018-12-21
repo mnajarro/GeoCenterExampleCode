@@ -18,4 +18,12 @@ http://usaid.maps.arcgis.com/apps/OnePane/basicviewer/index.html?appid=717f40224
 
 http://geocenterusaid.org/UrbanpopMap/index.html
 
+Update Dec 2018
+
 http://usaid.maps.arcgis.com/apps/webappviewer/index.html?id=0ab8abb0c6164c9b8954a4caeda59d0e
+
+http://geocenterusaid.org/remotesensing/
+
+http://geocenterusaid.org/mapviewer/
+
+http://geocenterusaid.org/ASHA/
