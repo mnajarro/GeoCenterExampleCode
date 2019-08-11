@@ -2,28 +2,28 @@
 
 Below are some scripts and sites created by the GeoCenter.
 
-http://geocenterusaid.org/rswebpage/
+Remote Sening 1.0 http://geocenterusaid.org/rswebpage/
 
-http://geocenterusaid.org/nextview/reviewer2015.html
+Reivewer http://geocenterusaid.org/nextview/reviewer2015.html
 
-http://geocenterusaid.org/Uganda_livelihoods_futures/index.html
+Livelihoods Data Viz App http://geocenterusaid.org/Uganda_livelihoods_futures/index.html
 
-http://hotosm.github.io/tracing-guides/guide/kulna.html
+Kulna Tracing Guide: http://hotosm.github.io/tracing-guides/guide/kulna.html
 
-http://geocenterusaid.org/foreignassistance/index.html
+Foreign Assistance: http://geocenterusaid.org/foreignassistance/index.html
 
-http://dcdev.esri.com/usaid_gdlwebmap/
+Global Development Lab Map: http://dcdev.esri.com/usaid_gdlwebmap/
 
-http://usaid.maps.arcgis.com/apps/OnePane/basicviewer/index.html?appid=717f402245764751b6c97f5098523e46
+Education and Conflict: http://usaid.maps.arcgis.com/apps/OnePane/basicviewer/index.html?appid=717f402245764751b6c97f5098523e46
 
-http://geocenterusaid.org/UrbanpopMap/index.html
+Urban Population Graphic: http://geocenterusaid.org/UrbanpopMap/index.html
 
 Update Dec 2018
 
-http://usaid.maps.arcgis.com/apps/webappviewer/index.html?id=0ab8abb0c6164c9b8954a4caeda59d0e
+Senegal Health Projects: http://usaid.maps.arcgis.com/apps/webappviewer/index.html?id=0ab8abb0c6164c9b8954a4caeda59d0e
 
-http://geocenterusaid.org/remotesensing/
+Remote Sensing site 2.0: http://geocenterusaid.org/remotesensing/
 
-http://geocenterusaid.org/mapviewer/
+USAID GeoViewer: http://geocenterusaid.org/mapviewer/
 
-http://geocenterusaid.org/ASHA/
+ASHA Project: http://geocenterusaid.org/ASHA/
